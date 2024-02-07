@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishi Patel</h1>
 <h3 align="center">A passionate & aspiring Software Engineer</h3>
 
-- 🔭 I’m currently working on **TicTacToePlus & UniManagement**
+- 🔭 I’m currently working on **TicTacToePlus**
 
 - 📫 Reach me @ **patelrishi1704@gmail.com**
 
