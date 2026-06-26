@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishi Patel</h1>
-<h3 align="center">A passionate & aspiring Software Engineer</h3>
+<h3 align="center">Fourth Year Computer/Software Engineer</h3>
 
-- 🔭 I’m currently working on **Clubby**
+- 🔭 I’m currently working on **Pop Clean**
 
 - 📫 Reach me @ **patelrishi1704@gmail.com**
 
